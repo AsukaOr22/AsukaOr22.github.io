@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://AsukaOr22.github.io/sitemap.xml
